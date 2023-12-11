@@ -5,6 +5,17 @@
 
 </div>
 
+<div align = center>
+  
+✨ **My Stack** ✨
+<br>
+<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+
+</div>
+
+
 <!--
 **callikys/callikys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
