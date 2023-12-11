@@ -5,20 +5,24 @@
 
 </div>
 
+<div align=center>
+
+![image](https://github.com/callikys/callikys/assets/134522414/42ea8793-9845-4b72-a7aa-71ee1efa6cb9)
+
+</div>
+
+
 <div align = center>
   
-✨ <font size="7">**My Stack**</font> ✨
-<br>
+<h1>✨ My Stack ✨</h1>
 <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 
 </div>
-
 <div align = center>
 
-✨ <font size="7">**Cowork Tools**</font> ✨
-<br>
+<h1>✨ Cowork Tools ✨</h1>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
@@ -27,25 +31,7 @@
 
 <div align=center>
 
-✨ <font size="7">**My Stats**</font> ✨
-<br>
+<h1>✨ My Stats ✨</h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callikys&show_icons=true&theme=cobalt)
 
 </div>
-
-
-
-<!--
-**callikys/callikys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
