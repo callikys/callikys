@@ -14,15 +14,10 @@
 
 <div align = center>
   
-<h1>✨ My Stack ✨</h1>
+<h1>✨ I use ... ✨</h1>
 <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-
-</div>
-<div align = center>
-
-<h1>✨ Cowork Tools ✨</h1>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
@@ -31,7 +26,23 @@
 
 <div align=center>
 
-<h1>✨ My Stats ✨</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callikys&show_icons=true&theme=cobalt)
+<h1>💡 My Stats & Most Used Languages 💡</h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callikys)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callikys&layout=compact)](https://github.com/callikys/github-readme-stats)
+
 
 </div>
+
+
+<div align = center>
+
+<h1> My tear </h1>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yeseo0613)](https://solved.ac/yeseo0613)
+
+</div>
+
+
+
+
