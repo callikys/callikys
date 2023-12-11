@@ -37,7 +37,7 @@
 
 <div align = center>
 
-<h1> My tear </h1>
+<h1> 🪄 My tear 🪄 </h1>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yeseo0613)](https://solved.ac/yeseo0613)
 
