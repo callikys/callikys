@@ -37,7 +37,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeseo0613)](https:/
 
 <h1>💡 My Stats & Most Used Languages 💡</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callikys)](https://github.com/anuraghazra/github-readme-stats)
+[![callikys's GitHub stats](https://github-readme-stats.vercel.app/api?username=callikys)](https://github.com/callikys/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callikys&layout=compact)](https://github.com/callikys/github-readme-stats)
 
 
