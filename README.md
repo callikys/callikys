@@ -3,7 +3,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcallikys&count_bg=%23D09AFF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://github.com/callikys)
 [![Solved.ac
-Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeseo0613)](https://solved.ac/yeseo0613)
+Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeseo0613)]()
 
 
 </div>
