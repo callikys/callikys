@@ -13,8 +13,6 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeseo0613)](https:/
 <div align = center>
 
 
-
-
 <h2> ✏ I study here ✏ </h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=callikys)](https://velog.io/@callikys) 
